@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+bs4
+pandas-profiling
+sweetviz
+seaborn
+scipy
